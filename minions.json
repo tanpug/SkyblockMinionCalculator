@@ -1,0 +1,728 @@
+"wheat": [
+    {
+      "tier": "1",
+      "cooldown": "15"
+    },
+    {
+      "tier": "7",
+      "cooldown": "10"
+    },
+    {
+      "tier": "11",
+      "cooldown": "9"
+    }
+  ],
+"carrot": [
+    {
+      "tier": "1",
+      "cooldown": "20"
+    },
+    {
+      "tier": "7",
+      "cooldown": "14"
+    },
+    {
+      "tier": "11",
+      "cooldown": "10"
+    }
+  ],
+"potato": [
+    {
+      "tier": "1",
+      "cooldown": "20"
+    },
+    {
+      "tier": "7",
+      "cooldown": "14"
+    },
+    {
+      "tier": "11",
+      "cooldown": "10"
+    }
+  ],
+"pumpkin": [
+    {
+      "tier": "1",
+      "cooldown": "32"
+    },
+    {
+      "tier": "7",
+      "cooldown": "24"
+    },
+    {
+      "tier": "11",
+      "cooldown": "16"
+    }
+  ],
+"melon": [
+    {
+      "tier": "1",
+      "cooldown": "24"
+    },
+    {
+      "tier": "7",
+      "cooldown": "18.5"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"mushroom": [
+    {
+      "tier": "1",
+      "cooldown": "30"
+    },
+    {
+      "tier": "7",
+      "cooldown": "23"
+    },
+    {
+      "tier": "11",
+      "cooldown": "16"
+    }
+  ],
+"cocoa": [
+    {
+      "tier": "1",
+      "cooldown": "27"
+    },
+    {
+      "tier": "7",
+      "cooldown": "21"
+    },
+    {
+      "tier": "11",
+      "cooldown": "15"
+    }
+  ],
+"cactus": [
+    {
+      "tier": "1",
+      "cooldown": "27"
+    },
+    {
+      "tier": "7",
+      "cooldown": "21"
+    },
+    {
+      "tier": "11",
+      "cooldown": "15"
+    }
+  ],
+"cane": [
+    {
+      "tier": "1",
+      "cooldown": "22"
+    },
+    {
+      "tier": "7",
+      "cooldown": "16"
+    },
+    {
+      "tier": "11",
+      "cooldown": "12"
+    }
+  ],
+"cow": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"pig": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"chicken": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "15"
+    }
+  ],
+"sheep": [
+    {
+      "tier": "1",
+      "cooldown": "24"
+    },
+    {
+      "tier": "7",
+      "cooldown": "18"
+    },
+    {
+      "tier": "11",
+      "cooldown": "12"
+    }
+  ],
+"rabbit": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"wart": [
+    {
+      "tier": "1",
+      "cooldown": "50"
+    },
+    {
+      "tier": "7",
+      "cooldown": "41"
+    },
+    {
+      "tier": "11",
+      "cooldown": "32"
+    }
+  ],
+"cobblestone": [
+    {
+      "tier": "1",
+      "cooldown": "14"
+    },
+    {
+      "tier": "7",
+      "cooldown": "9"
+    },
+    {
+      "tier": "11",
+      "cooldown": "7"
+    }
+  ],
+"coal": [
+    {
+      "tier": "1",
+      "cooldown": "15"
+    },
+    {
+      "tier": "7",
+      "cooldown": "10"
+    },
+    {
+      "tier": "11",
+      "cooldown": "7"
+    }
+  ],
+"iron": [
+    {
+      "tier": "1",
+      "cooldown": "17"
+    },
+    {
+      "tier": "7",
+      "cooldown": "12"
+    },
+    {
+      "tier": "11",
+      "cooldown": "8"
+    }
+  ],
+"gold": [
+    {
+      "tier": "1",
+      "cooldown": "22"
+    },
+    {
+      "tier": "7",
+      "cooldown": "16"
+    },
+    {
+      "tier": "11",
+      "cooldown": "11"
+    }
+  ],
+"diamond": [
+    {
+      "tier": "1",
+      "cooldown": "29"
+    },
+    {
+      "tier": "7",
+      "cooldown": "22"
+    },
+    {
+      "tier": "11",
+      "cooldown": "15"
+    }
+  ],
+"lapis": [
+    {
+      "tier": "1",
+      "cooldown": "29"
+    },
+    {
+      "tier": "7",
+      "cooldown": "23"
+    },
+    {
+      "tier": "11",
+      "cooldown": "18"
+    }
+  ],
+"emerald": [
+    {
+      "tier": "1",
+      "cooldown": "28"
+    },
+    {
+      "tier": "7",
+      "cooldown": "21"
+    },
+    {
+      "tier": "11",
+      "cooldown": "14"
+    }
+  ],
+"redstone": [
+    {
+      "tier": "1",
+      "cooldown": "29"
+    },
+    {
+      "tier": "7",
+      "cooldown": "23"
+    },
+    {
+      "tier": "11",
+      "cooldown": "18"
+    }
+  ],
+"quartz": [
+    {
+      "tier": "1",
+      "cooldown": "22.5"
+    },
+    {
+      "tier": "7",
+      "cooldown": "17"
+    },
+    {
+      "tier": "11",
+      "cooldown": "11.5"
+    }
+  ],
+"obsidian": [
+    {
+      "tier": "1",
+      "cooldown": "45"
+    },
+    {
+      "tier": "7",
+      "cooldown": "35"
+    },
+    {
+      "tier": "11",
+      "cooldown": "24"
+    }
+  ],
+"glowstone": [
+    {
+      "tier": "1",
+      "cooldown": "25"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"gravel": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"ice": [
+    {
+      "tier": "1",
+      "cooldown": "14"
+    },
+    {
+      "tier": "7",
+      "cooldown": "9"
+    },
+    {
+      "tier": "11",
+      "cooldown": "7"
+    }
+  ],
+"sand": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"endstone": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"clay": [
+    {
+      "tier": "1",
+      "cooldown": "32"
+    },
+    {
+      "tier": "7",
+      "cooldown": "24"
+    },
+    {
+      "tier": "11",
+      "cooldown": "16"
+    }
+  ],
+"zombie": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"skeleton": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"spider": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"cavespider": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "20"
+    },
+    {
+      "tier": "11",
+      "cooldown": "13"
+    }
+  ],
+"creeper": [
+    {
+      "tier": "1",
+      "cooldown": "27"
+    },
+    {
+      "tier": "7",
+      "cooldown": "21"
+    },
+    {
+      "tier": "11",
+      "cooldown": "14"
+    }
+  ],
+"enderman": [
+    {
+      "tier": "1",
+      "cooldown": "32"
+    },
+    {
+      "tier": "7",
+      "cooldown": "25"
+    },
+    {
+      "tier": "11",
+      "cooldown": "18"
+    }
+  ],
+"ghast": [
+    {
+      "tier": "1",
+      "cooldown": "50"
+    },
+    {
+      "tier": "7",
+      "cooldown": "41"
+    },
+    {
+      "tier": "11",
+      "cooldown": "32"
+    }
+  ],
+"slime": [
+    {
+      "tier": "1",
+      "cooldown": "26"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "12"
+    }
+  ],
+"blaze": [
+    {
+      "tier": "1",
+      "cooldown": "33"
+    },
+    {
+      "tier": "7",
+      "cooldown": "25"
+    },
+    {
+      "tier": "11",
+      "cooldown": "16.5"
+    }
+  ],
+"magmacube": [
+    {
+      "tier": "1",
+      "cooldown": "32"
+    },
+    {
+      "tier": "7",
+      "cooldown": "25"
+    },
+    {
+      "tier": "11",
+      "cooldown": "18"
+    }
+  ],
+"revenant": [
+    {
+      "tier": "1",
+      "cooldown": "29"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "10"
+    }
+  ],
+"tarantula": [
+    {
+      "tier": "1",
+      "cooldown": "29"
+    },
+    {
+      "tier": "7",
+      "cooldown": "19"
+    },
+    {
+      "tier": "11",
+      "cooldown": "10"
+    }
+  ],
+"oak": [
+    {
+      "tier": "1",
+      "cooldown": "48"
+    },
+    {
+      "tier": "7",
+      "cooldown": "38"
+    },
+    {
+      "tier": "11",
+      "cooldown": "27"
+    }
+  ],
+"spruce": [
+    {
+      "tier": "1",
+      "cooldown": "48"
+    },
+    {
+      "tier": "7",
+      "cooldown": "38"
+    },
+    {
+      "tier": "11",
+      "cooldown": "27"
+    }
+  ],
+"birch": [
+    {
+      "tier": "1",
+      "cooldown": "48"
+    },
+    {
+      "tier": "7",
+      "cooldown": "38"
+    },
+    {
+      "tier": "11",
+      "cooldown": "27"
+    }
+  ],
+"darkoak": [
+    {
+      "tier": "1",
+      "cooldown": "48"
+    },
+    {
+      "tier": "7",
+      "cooldown": "38"
+    },
+    {
+      "tier": "11",
+      "cooldown": "27"
+    }
+  ],
+"acacia": [
+    {
+      "tier": "1",
+      "cooldown": "48"
+    },
+    {
+      "tier": "7",
+      "cooldown": "38"
+    },
+    {
+      "tier": "11",
+      "cooldown": "27"
+    }
+  ],
+"jungle": [
+    {
+      "tier": "1",
+      "cooldown": "48"
+    },
+    {
+      "tier": "7",
+      "cooldown": "38"
+    },
+    {
+      "tier": "11",
+      "cooldown": "27"
+    }
+  ],
+"fishing": [
+    {
+      "tier": "1",
+      "cooldown": "78"
+    },
+    {
+      "tier": "7",
+      "cooldown": "62.5"
+    },
+    {
+      "tier": "11",
+      "cooldown": "35"
+    }
+  ],
+"flower": [
+    {
+      "tier": "1",
+      "cooldown": "30"
+    },
+    {
+      "tier": "7",
+      "cooldown": "24"
+    },
+    {
+      "tier": "11",
+      "cooldown": "18"
+    }
+  ],
+"snow": [
+    {
+      "tier": "1",
+      "cooldown": "13"
+    },
+    {
+      "tier": "7",
+      "cooldown": "9.5"
+    },
+    {
+      "tier": "11",
+      "cooldown": "6.5"
+    }
+  ],
