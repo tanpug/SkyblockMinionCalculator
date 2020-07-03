@@ -1,1 +1,61 @@
-1
+{
+"coal": [
+    {
+      "time": "0.5",
+      "efficiency": "0.05"
+    }
+  ],
+"coal_block": [
+    {
+      "time": "5",
+      "efficiency": "0.05"
+    }
+  ],
+"enchanted_bread": [
+    {
+      "time": "12",
+      "efficiency": "0.05"
+    }
+  ],
+"enchanted_coal": [
+    {
+      "time": "24",
+      "efficiency": "0.10"
+    }
+  ],
+"enchated_charcoal": [
+    {
+      "time": "36",
+      "efficiency": "0.20"
+    }
+  ],
+"solar_panel": [
+    {
+      "time": "500",
+      "efficiency": "0.25"
+    }
+  ],
+"enchanted_lava_bucket": [
+    {
+      "time": "1000",
+      "efficiency": "0.25"
+    }
+  ],
+"hamster_wheel": [
+    {
+      "time": "24",
+      "efficiency": "0.50"
+    }
+  ],
+"foul_flesh": [
+    {
+      "time": "5",
+      "efficiency": "0.90"
+    }
+  ],
+"catalyst": [
+    {
+      "time": "3",
+      "efficiency": "2.00"
+    }
+  ],
